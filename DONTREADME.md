@@ -1,0 +1,9 @@
+- I'm LoOD
+- I'm an artist ...
+- I’m not a coder ...
+- I’m currently "learning" github/git for no real reason ...
+
+<!---
+LordOfDegeneracy/LordOfDegeneracy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
